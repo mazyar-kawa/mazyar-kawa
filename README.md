@@ -63,3 +63,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mazyar-kawa/mazyar-kawa/output/snake.svg" alt="Snake animation" />
+
+###
