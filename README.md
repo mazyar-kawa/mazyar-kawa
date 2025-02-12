@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/mazyar-kawa/mazyar-kawa/snake.svg](https://github.com/mazyar-kawa/mazyar-kawa/blob/main/snake.svg)" alt="Snake animation" />
+<img src="https://github.com/mazyar-kawa/mazyar-kawa/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 
