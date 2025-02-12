@@ -58,15 +58,16 @@
 </div>
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mazyar-kawa/count.svg?"  />
-</div>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mazyar-kawa/mazyar-kawa/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br />
-
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mazyar-kawa/count.svg?"  />
+</div>
 
 ###
