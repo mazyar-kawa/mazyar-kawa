@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg?t=st=1739357116~exp=1739360716~hmac=708023a1c3aea9a7c88602b657f64b4f36781c638dacd26fd17a9828e3f4ed46&w=1380"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
